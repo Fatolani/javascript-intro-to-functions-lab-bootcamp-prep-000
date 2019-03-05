@@ -3,4 +3,5 @@ function shout(string){
 }
 function whisper(string){
   return whisper.toLowerCase ()
-} function 
+} function sayHiToGrandma(string)
+return "I love yu, too."
